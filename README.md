@@ -5,6 +5,7 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Status](https://img.shields.io/badge/status-active-success)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Try%20on-Hugging%20Face-blue?logo=huggingface&logoColor=yellow)](https://huggingface.co/spaces/saadmirza12/agentpro-health-symptom-checker)
 
 ---
 
