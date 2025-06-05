@@ -22,37 +22,9 @@ A multi-agent AI assistant that **analyzes your health symptoms** and provides l
 
 ---
 
-## 📋 Table of Contents
+## 🚀 Live Demo
 
-- [Features](#-features)
-- [Screenshots](#-screenshots)
-- [Setup](#-setup)
-- [Usage](#-usage)
-- [Security](#-security)
-- [Troubleshooting](#-troubleshooting)
-- [Contributing](#-contributing)
-- [Credits](#-credits)
-- [License](#-license)
-- [Contact](#-contact)
-
----
-
-## 🖼️ Screenshots
-
-> *(Add your own screenshots! Example below)*
-
-| Input                                   | Output                                              |
-|------------------------------------------|-----------------------------------------------------|
-| `Enter your symptoms: pain in neck`      | ![Example Output](docs/output-neck-pain.png)        |
-
-*Sample CLI session:*
-Enter your symptoms: pain in neck
-
-[Symptom Checker]: Common causes of neck pain include muscle strain, poor posture, neck injury, etc.
-[Advice Agent]: Try gentle stretching, improve posture, and consult a doctor if pain persists.
-
-
----
+- [Try the app live on Hugging Face Spaces!](https://huggingface.co/spaces/saadmirza12/agentpro-health-symptom-checker)
 
 ## 🛠️ Setup
 
